@@ -1,0 +1,10 @@
+F1,F2,F3,F4,Class
+A,a1,Y,H,+
+A,a3,Y,N,+
+A,a2,N,H,-
+B,a2,Y,H,-
+B,a1,N,N,+
+B,a3,N,H,-
+D,a3,Y,N,+
+D,a1,Y,H,-
+D,a2,N,N,+
