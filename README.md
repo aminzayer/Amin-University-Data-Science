@@ -14,15 +14,16 @@ This repository, prepared for academic purposes, includes all the implementation
 
 ## Help
 
-list link to all algorithms
+list link to all Sections
 
 
 - [Base Implementation](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Base-Implementation)
 
-- [Base Implementation](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Base-Implementation)
+- [Deep Learning](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Deep-Learning)
 
-- [Base Implementation](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Base-Implementation)
+- [Machine Learning Final Project](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/ML-Project-Final)
 
+- [Machine Learning (Classic) With Python Lib ](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Python-Lib-ML-Classic)
 
 
 ## Authors
