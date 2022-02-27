@@ -2,6 +2,17 @@
 
 All data mining machine learning algorithms are basically coded by displaying solutions with Python
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons" data-icon="octicon-star" data-size="large" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/sponsors/ntkme" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @ntkme on GitHub">Sponsor</a>
+
+
+
 ## Description
 
 This repository, prepared for academic purposes, includes all the implementation codes of data mining and machine learning base algorithms, which also provides solutions.
@@ -38,6 +49,15 @@ list link to all Sections
 - [Machine Learning Final Project](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/ML-Project-Final)
 
 - [Machine Learning (Classic) With Python Lib ](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Python-Lib-ML-Classic)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons" data-icon="octicon-star" data-size="large" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/sponsors/ntkme" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @ntkme on GitHub">Sponsor</a>
 
 
 ## Authors
