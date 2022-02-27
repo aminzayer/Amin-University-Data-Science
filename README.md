@@ -3,13 +3,13 @@
 All data mining machine learning algorithms are basically coded by displaying solutions with Python
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons" data-icon="octicon-star" data-size="large" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+<a class="github-button" href="https://github.com/aminzayer/Amin-University-Data-Science" data-icon="octicon-star" data-size="large" aria-label="Star aminzayer/Amin-University-Data-Science on GitHub">Star</a>
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+<a class="github-button" href="https://github.com/aminzayer" data-size="large" aria-label="Follow @aminzayer on GitHub">Follow @aminzayer</a>
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sponsors/ntkme" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @ntkme on GitHub">Sponsor</a>
+<a class="github-button" href="https://github.com/sponsors/aminzayer" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @aminzayer on GitHub">Sponsor</a>
 
 
 
@@ -51,13 +51,13 @@ list link to all Sections
 - [Machine Learning (Classic) With Python Lib ](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Python-Lib-ML-Classic)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons" data-icon="octicon-star" data-size="large" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+<a class="github-button" href="https://github.com/aminzayer/Amin-University-Data-Science" data-icon="octicon-star" data-size="large" aria-label="Star aminzayer/Amin-University-Data-Science on GitHub">Star</a>
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+<a class="github-button" href="https://github.com/aminzayer" data-size="large" aria-label="Follow @aminzayer on GitHub">Follow @aminzayer</a>
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sponsors/ntkme" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @ntkme on GitHub">Sponsor</a>
+<a class="github-button" href="https://github.com/sponsors/aminzayer" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @aminzayer on GitHub">Sponsor</a>
 
 
 ## Authors
