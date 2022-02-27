@@ -3,7 +3,8 @@
 All data mining machine learning algorithms are basically coded by displaying solutions with Python
 
 [![Github](https://img.shields.io/github/followers/aminzayer?style=social)](https://github.com/aminzayer) 
-[![Github](https://img.shields.io/github/stars/aminzayer/Amin-University-Data-Science?style=social)](https://github.com/aminzayer)
+[![Github](https://img.shields.io/github/stars/aminzayer/Amin-University-Data-Science?style=social)](https://github.com/aminzayer/Amin-University-Data-Science)
+[![Github](https://img.shields.io/github/watchers/aminzayer/Amin-University-Data-Science?style=social)](https://github.com/aminzayer/Amin-University-Data-Science)
 
 ## Description
 
