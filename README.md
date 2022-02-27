@@ -1,18 +1,6 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 # Amin-University-Data-Science
 
 All data mining machine learning algorithms are basically coded by displaying solutions with Python
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/aminzayer/Amin-University-Data-Science" data-icon="octicon-star" data-size="large" aria-label="Star aminzayer/Amin-University-Data-Science on GitHub">Star</a>
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/aminzayer" data-size="large" aria-label="Follow @aminzayer on GitHub">Follow @aminzayer</a>
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sponsors/aminzayer" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @aminzayer on GitHub">Sponsor</a>
-
 
 
 ## Description
@@ -51,15 +39,6 @@ list link to all Sections
 - [Machine Learning Final Project](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/ML-Project-Final)
 
 - [Machine Learning (Classic) With Python Lib ](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Python-Lib-ML-Classic)
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/aminzayer/Amin-University-Data-Science" data-icon="octicon-star" data-size="large" aria-label="Star aminzayer/Amin-University-Data-Science on GitHub">Star</a>
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/aminzayer" data-size="large" aria-label="Follow @aminzayer on GitHub">Follow @aminzayer</a>
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sponsors/aminzayer" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @aminzayer on GitHub">Sponsor</a>
 
 
 ## Authors
