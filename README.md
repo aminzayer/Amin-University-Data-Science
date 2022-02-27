@@ -6,6 +6,18 @@ All data mining machine learning algorithms are basically coded by displaying so
 
 This repository, prepared for academic purposes, includes all the implementation codes of data mining and machine learning base algorithms, which also provides solutions.
 
+List of implemented algorithms in all sections
+
+- K-Mean & DBSCAN & Hierarchical & KNN  ( Clustering & Classification )
+
+- Candidate Elimination & Find-S & ID3 ( Decision Tree )
+
+- Distance Meashure & ML Project ( K-Mean Image Clustering )
+
+- Deep Learning Binary-Class & Multiple-Class & Example 
+
+- Linear Programing for Optimizing and Get Min or Max Func
+
 ## Getting Started
 
 ### Dependencies
@@ -20,6 +32,8 @@ list link to all Sections
 - [Base Implementation](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Base-Implementation)
 
 - [Deep Learning](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Deep-Learning)
+
+- [Linear Programing Optimizing](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/Linear-Programing-Optimizing)
 
 - [Machine Learning Final Project](https://github.com/aminzayer/Amin-University-Data-Science/tree/main/ML-Project-Final)
 
